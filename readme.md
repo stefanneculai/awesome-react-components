@@ -502,6 +502,7 @@
  - [react-trumbowyg](https://github.com/RD17/react-trumbowyg) - React wrapper for Trumbowyg.
  - [alloyeditor](https://github.com/liferay/alloy-editor) - WYSIWYG editor based on CKEditor with completely rewritten UI.
  - [react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - A Wysiwyg editor build on top of ReactJS and DraftJS.
+ - [react-froala-wysiwyg](https://github.com/froala/react-froala-wysiwyg) - React component for Froala WYSIWYG HTML Rich Text Editor.
 
 
 #### Markdown Editor
